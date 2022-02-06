@@ -21,10 +21,10 @@ Repository that contains the code I used during the numerical analisys course at
 * Spline;
 * MMQ.
 
-## Fourth
+## Fourth:
 
-* Trapezoidal
-* Simpson's rule
-* RK2 and RK4
-* Euler's method
+* Trapezoidal;
+* Simpson's rule;
+* RK2 and RK4;
+* Euler's method.
 
